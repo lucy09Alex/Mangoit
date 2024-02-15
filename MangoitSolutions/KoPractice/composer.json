@@ -1,6 +1,6 @@
 {
-    "name": "mangoit/ko-practice",
-    "description": "Mangoit KoPractice Module for Magento 2",
+    "name": "mangoitsolutions/ko-practice",
+    "description": "mangoitsolutions KoPractice Module for Magento 2",
     "type": "magento2-module",
     "version": "1.0.0",
     "license": [
@@ -14,7 +14,7 @@
     "autoload": {
         "files": ["registration.php"],
         "psr-4": {
-            "Mangoit\\KoPractice\\": ""
+            "MangoitSolutions\\KoPractice\\": ""
         }
     }
 }
